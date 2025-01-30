@@ -17,7 +17,7 @@ In order to use this application, after typing 'npm start' and opening the webpa
 ## Contributing
 Many tutors from the course assisted including Alexis SJ, Luis S, Alistair, Andrea, Quentin, and Charlie.  This was a complex application and many people helped troubleshoot it.  If you would like to contribute to this project, please see contact information in the Questions section below.
 ## Tests
-In orde4r to test the application, please type or select a city name.  Make sure that the application sends you 5 days worth of forecasts.
+In order to test the application, please type or select a city name.  Make sure that the application sends you 5 days worth of forecasts.
 ## Questions
 To reach me with additional questions please contact me at:
 perezteri@hotmail.com  
