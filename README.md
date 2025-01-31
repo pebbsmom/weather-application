@@ -11,7 +11,7 @@ This application will allow the user to enter a city on an HTML page and display
 ## Installation
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Run the application by typing 'npm start'. 4) You should  be able to see the webpage in Render. 5)  Enter or select a city to view the current and forecast weather.
 ## Usage
-In order to use this application, after typing 'npm start' and opening the webpage, type or select the city you would like to see the weather for.  Application on Render (https://weather-application1-176o.onrender.com)
+In order to use this application, after typing 'npm start' and opening the webpage, type or select the city you would like to see the weather for. The application can be found here on Render: (https://weather-application1-176o.onrender.com)
 ## License
     This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
