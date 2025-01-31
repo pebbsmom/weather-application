@@ -1,6 +1,6 @@
 # Project Title: Weather Dashboard ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description 
-This application will allow the user to enter a city on an HTML page and display the current day's weather and a forecast weather report that includes the date, a weather icon describing the d ay's conditions, the temperature, the wind speed and the humidity.  The user is able to select a saved city or type a new city to retrieve the weather.  Additionally, the user is able to delete a city from the list of cities displayed on the HTML page.
+This application will allow the user to enter a city on an HTML page and display the current day's weather and a forecast weather report that includes the date, a weather icon describing the day's conditions, the temperature, the wind speed and the humidity.  The user is able to select a saved city or type a new city to retrieve the weather.  Additionally, the user is able to delete a city from the list of cities displayed on the HTML page.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
